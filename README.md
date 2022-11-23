@@ -1,4 +1,4 @@
-# Site de Batería | Drums site
+# Site de relógio | Clock site
 
 ☠️ Projeto guiado que aprendi a fazer no curso de desafio 
 de 30 dias de JavaScript do Wes Bos, em que cada dia 
